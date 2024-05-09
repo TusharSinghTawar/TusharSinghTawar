@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tushartanwarofficial@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mgv4T4yzFimOagSzW4I2j62LKDE3_Ggx/view?usp=drive_link](https://drive.google.com/file/d/1mgv4T4yzFimOagSzW4I2j62LKDE3_Ggx/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mgv4T4yzFimOagSzW4I2j62LKDE3_Ggx/view?usp=drive_link](https://drive.google.com/file/d/1mns7AQHZ5ctYrh_QZF-sxvI8XbYD2JAl/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
