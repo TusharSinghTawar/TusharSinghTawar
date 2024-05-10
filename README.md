@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/tusharsinghtanwar1408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tusharsinghtanwar1408" height="30" width="40" /></a>
 <a href="https://instagram.com/tusharsinghtawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tusharsinghtawar" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Bkd2qqWeDP/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushartanwar" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/tushartanwar1408/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushartanwar" height="30" width="40" /></a>
 <a href="https://discord.gg/tushar_66348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tushar_66348" height="30" width="40" /></a><a href="https://dribbble.com/abtushar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="abtushar" height="30" width="40" /></a>
 </p>
 
